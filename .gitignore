@@ -1,3 +1,5 @@
 # ignore these following files.
-.testagain.R
-.ignore.R
+
+testagain.R
+ignore.R
+test1/
